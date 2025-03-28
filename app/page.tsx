@@ -1,10 +1,9 @@
-import BandList from "@/app/_components/BandList";
+import SearchRenderBands from "@/app/_components/SearchRenderBands";
 export default function Home() {
   return (
-    <div className='flex items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]'>
-      <div className='flex flex-col gap-8 row-start-2 items-center sm:items-start w-full'>
-        <h1>Home</h1>
-        <BandList />
+    <div className='flex items-center justify-items-center gap-16 font-[family-name:var(--font-geist-sans)]'>
+      <div className='gap-8 row-start-2 items-center sm:items-start w-full'>
+        <SearchRenderBands />
       </div>
     </div>
   );

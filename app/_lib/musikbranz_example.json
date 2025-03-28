@@ -1,0 +1,4234 @@
+{
+  "created": "2025-01-15T23:46:03.654Z",
+  "count": 7741,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+      "type": "Other",
+      "type-id": "ac897045-5043-3294-969b-187360e45d86",
+      "score": 100,
+      "name": "Various Artists",
+      "sort-name": "Various Artists",
+      "disambiguation": "add compilations to this artist",
+      "life-span": { "ended": null },
+      "aliases": [
+        {
+          "sort-name": "Multi‐interprètes",
+          "name": "Multi‐interprètes",
+          "locale": "fr",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "различные исполнители",
+          "name": "[различные исполнители]",
+          "locale": "ru",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ヴァリアス・アーティスト",
+          "name": "ヴァリアス・アーティスト",
+          "locale": "ja",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Multi‐interprètes",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Multi‐interprètes",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "val",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "val",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Various Talented Artists",
+          "name": "Various Talented Artists",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Records, Circus",
+          "name": "Circus Records",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Various Celtic Artists",
+          "name": "Various Celtic Artists",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Planets Of The Universe",
+          "name": "Planets Of The Universe",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Diverse Kunstnere",
+          "name": "Diverse Kunstnere",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Multi Interprètes",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Multi Interprètes",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Various (original artists)",
+          "name": "Various (original artists)",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Multi‐interprètes",
+          "name": "Multi‐interprètes",
+          "locale": "fr",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Variées",
+          "name": "Variées",
+          "locale": "fr",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Compilaciones",
+          "name": "Compilaciones",
+          "locale": "es",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "(various)",
+          "name": "(various)",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Varius Artist",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Varius Artist",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Diversen",
+          "name": "Diversen",
+          "locale": "de",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "OST",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "OST",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "AA.VV.",
+          "name": "AA.VV.",
+          "locale": "it",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Cheapbeats",
+          "name": "Cheapbeats",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Various Artist - GoGo Wonderful",
+          "name": "Various Artist - GoGo Wonderful",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Diverse danske artister",
+          "name": "Diverse danske artister",
+          "locale": "da",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Varied",
+          "name": "Varied",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Comp.",
+          "name": "Comp.",
+          "locale": "fr",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "VAR",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "VAR",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ｖ．Ａ.",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Ｖ．Ａ.",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "A.A.V.V.",
+          "name": "A.A.V.V.",
+          "locale": "it",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "多个艺术家",
+          "name": "多个艺术家",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Collectif",
+          "name": "Collectif",
+          "locale": "fr",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Varios Artistas",
+          "name": "Varios Artistas",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "MDB",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "MDB",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dominicanos Varios",
+          "name": "Dominicanos Varios",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Diverse",
+          "name": "Diverse",
+          "locale": "de",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "More artists",
+          "name": "More artists",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Various Composers",
+          "name": "Various Composers",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Suntory Oolong-cha CM Song Collection",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Suntory Oolong-cha CM Song Collection",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "V/a",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "V/a",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Varius",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Varius",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Erinevad",
+          "name": "Erinevad",
+          "locale": "et",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nhiều nghệ sĩ",
+          "name": "Nhiều nghệ sĩ",
+          "locale": "vi",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "razlichnye ispolniteli",
+          "name": "razlichnye ispolniteli",
+          "locale": "ru",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Artistes divers",
+          "name": "Artistes divers",
+          "locale": "fr",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Various Artists from Polygram",
+          "name": "寶麗金群星",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Artis JK",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Artis JK",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Danske Kunstnere",
+          "name": "Danske Kunstnere",
+          "locale": "da",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Przeboje, Światowe",
+          "name": "Światowe Przeboje",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Varoius Artists",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Varoius Artists",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Various DHM Artists",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Various DHM Artists",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "多位艺术家",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "多位艺术家",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "世界小姐",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "世界小姐",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "VariousArtist",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "VariousArtist",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Assorted Christian Artists",
+          "name": "Assorted Christian Artists",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Siren Cues",
+          "name": "Siren Cues",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "オムニバス",
+          "name": "オムニバス",
+          "locale": "ja",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Variés",
+          "name": "Variés",
+          "locale": "fr",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Battle of the Bits",
+          "name": "Battle of the Bits",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Div. artister",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Div. artister",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rizni vykonavci",
+          "name": "Rizni vykonavci",
+          "locale": "uk",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Vários Artistas",
+          "name": "Vários Artistas",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bande originale",
+          "name": "Bande originale",
+          "locale": "fr",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Assorted Artists",
+          "name": "Assorted Artists",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Multi-artistes",
+          "name": "Multi-artistes",
+          "locale": "fr",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Various Artsits",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Various Artsits",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sampler",
+          "name": "Sampler",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Multiple Artists",
+          "name": "Multiple Artists",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "歌手",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "歌手",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[Various Artists]",
+          "name": "[Various Artists]",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hợp ca",
+          "name": "Hợp ca",
+          "locale": "vi",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Various Artists from WEA",
+          "name": "華納群星",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Various Artists [DIY]",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Various Artists [DIY]",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Insomniac Music Group",
+          "name": "Insomniac Music Group",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Varios artists",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Varios artists",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "V. Artist",
+          "name": "V. Artist",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Various Artists from TianYu",
+          "name": "天娱群星",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Various Artitsts",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Various Artitsts",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Varies",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Varies",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Vários intérpretes",
+          "name": "Vários intérpretes",
+          "locale": "pt",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Woman & Home / Classic FM",
+          "name": "Woman & Home / Classic FM",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "various aritsts",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "various aritsts",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Различные исполнители",
+          "name": "Различные исполнители",
+          "locale": "ru",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Diverse componisten",
+          "name": "Diverse componisten",
+          "locale": "nl",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Vrious Artists",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Vrious Artists",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "V.A.",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "V.A.",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Όλοι",
+          "name": "Όλοι",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Multi-interprètes",
+          "name": "Multi-interprètes",
+          "locale": "fr",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Varias Artistas",
+          "name": "Varias Artistas",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "various artiste",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "various artiste",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Various Female Artists",
+          "name": "Various Female Artists",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "หลากหลายศิลปิน",
+          "name": "หลากหลายศิลปิน",
+          "locale": "th",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "合輯",
+          "name": "合輯",
+          "locale": "zh",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Various Artistes",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Various Artistes",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "原声带",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "原声带",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Coletânea",
+          "name": "Coletânea",
+          "locale": "pt",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Różni artyści",
+          "name": "Różni artyści",
+          "locale": "pl",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Assorted Artisits",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Assorted Artisits",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bassrush",
+          "name": "Bassrush",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kunstnere, Blandede",
+          "name": "Blandede Kunstnere",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "VV AA",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "VV AA",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Various DJ's",
+          "name": "Various DJ's",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "The Metal Observer",
+          "name": "The Metal Observer",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Fitness Workout Music",
+          "name": "Fitness Workout Music",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "環球群星",
+          "name": "環球群星",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Amrywiol",
+          "name": "Amrywiol",
+          "locale": "cy",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Various artists from CISM 89,3 FM",
+          "name": "Various artists from CISM 89,3 FM",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Various Artists from Polygram Taiwan",
+          "name": "寶麗金台灣群星",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Various Arists",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Various Arists",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Various Big Bands",
+          "name": "Various Big Bands",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "30 Vermont Artists",
+          "name": "30 Vermont Artists",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tabu Recz",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Tabu Recz",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Compilation",
+          "name": "Compilation",
+          "locale": "fr",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Divers",
+          "name": "Divers",
+          "locale": "fr",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Miscellaneous",
+          "name": "Miscellaneous",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "div.",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "div.",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Various Compiled By",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Various Compiled By",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "AAVV",
+          "name": "AAVV",
+          "locale": "it",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mixed Artists",
+          "name": "Mixed Artists",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "V.A.",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "V.A.",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Various Items",
+          "name": "Various Items",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Icelandic Folk Music",
+          "name": "Icelandic Folk Music",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Div. kunstnere",
+          "name": "Div. kunstnere",
+          "locale": "da",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "различных исполнителей",
+          "name": "различных исполнителей",
+          "locale": "ru",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "різних виконавців",
+          "name": "різних виконавців",
+          "locale": "uk",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rizni vykonavtsi",
+          "name": "Rizni vykonavtsi",
+          "locale": "uk",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Intérpretes Diversos",
+          "name": "Intérpretes Diversos",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "WiddFam",
+          "name": "WiddFam",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Verschiedene Interpreten",
+          "name": "Verschiedene Interpreten",
+          "locale": "de",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "DESKPOP",
+          "name": "DESKPOP",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Omnibus",
+          "name": "Omnibus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Various (not original artists)",
+          "name": "Various (not original artists)",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Różni",
+          "name": "Różni",
+          "locale": "pl",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Blandat",
+          "name": "Blandat",
+          "locale": "sv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Wszyscy artysci",
+          "name": "Wszyscy artysci",
+          "locale": "pl",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "(Karaoke) Various Artists",
+          "name": "(Karaoke) Various Artists",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "無責任レコーズ",
+          "name": "無責任レコーズ",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "versch. Künstler",
+          "name": "versch. Künstler",
+          "locale": "de",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "American Folk Blues Festival",
+          "name": "American Folk Blues Festival",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Varoius",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Varoius",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Varios",
+          "name": "Varios",
+          "locale": "es",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "多位艺术家",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "多位艺术家",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Various Speakers",
+          "name": "Various Speakers",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "影视原声",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "影视原声",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "V. A.",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "V. A.",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Variois",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Variois",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "varias",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "varias",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Historia de la Fania, La",
+          "name": "La Historia de la Fania",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Various",
+          "name": "Various",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Verschiedene",
+          "name": "Verschiedene",
+          "locale": "de",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "VA",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "VA",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tốp ca nam",
+          "name": "Tốp ca nam",
+          "locale": "vi",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Various Military Bands",
+          "name": "Various Military Bands",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "VA",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "VA",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Collégiale",
+          "name": "Collégiale",
+          "locale": "fr",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Vari",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Vari",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Artistas Varios",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Artistas Varios",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Various Artists (Rock)",
+          "name": "Various Artists (Rock)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "多位藝術家",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "多位藝術家",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Varios Intérpretes",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Varios Intérpretes",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "さまざまなアーティスト",
+          "name": "さまざまなアーティスト",
+          "locale": "ja",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Variuos Artists",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Variuos Artists",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "VA",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "VA",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Encrypted Audio",
+          "name": "Encrypted Audio",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Artisti uniti per l'Emilia",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Artisti uniti per l'Emilia",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Time Life Music: Various Artists",
+          "name": "Time Life Music: Various Artists",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Various Artist",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Various Artist",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ヴァリアス",
+          "name": "ヴァリアス",
+          "locale": "ja",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tốp ca",
+          "name": "Tốp ca",
+          "locale": "vi",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Vários",
+          "name": "Vários",
+          "locale": "pt",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Vari Artisti",
+          "name": "Vari Artisti",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Varius Artists",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Varius Artists",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Artisti vari",
+          "name": "Artisti vari",
+          "locale": "it",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Records, Reinelex",
+          "name": "Reinelex Records",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Variuos",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Variuos",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Noevir",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Noevir",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bypass Audio",
+          "name": "Bypass Audio",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Diaforoi Kallitechnes",
+          "name": "Διάφοροι Καλλιτέχνες",
+          "locale": "el",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ヴァリアス・アーティスト",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ヴァリアス・アーティスト",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "80's, Various",
+          "name": "Various 80's",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "(V.A.)",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "(V.A.)",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "هنرمندان مختلف",
+          "name": "هنرمندان مختلف",
+          "locale": "fa",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "atlikėjai, Įvairūs",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Įvairūs atlikėjai",
+          "locale": "lt",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Iedereen",
+          "name": "Iedereen",
+          "locale": "nl",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Vari",
+          "name": "Vari",
+          "locale": "it",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Razni",
+          "name": "Razni",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "אמנים שונים",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Various Artists",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ýmsir hljóðfæraleikarar",
+          "name": "Ýmsir hljóðfæraleikarar",
+          "locale": "is",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Qun Xing",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "群星",
+          "locale": "zh_Hans",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Raznye artisty",
+          "name": "Разные артисты",
+          "locale": "ru",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Verious",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Verious",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Razni Izvođači",
+          "name": "Razni Izvođači",
+          "locale": "sr_Latn",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Razni Izvođači",
+          "name": "Razni Izvođači",
+          "locale": "hr",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Razni Izvođači",
+          "name": "Razni Izvođači",
+          "locale": "bs",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Qun xing",
+          "name": "群星",
+          "locale": "zh",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "รวมศิลปิน",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "รวมศิลปิน",
+          "locale": "th",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Blandade artister",
+          "name": "Blandade artister",
+          "locale": "sv",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Різні виконавці",
+          "name": "Різні виконавці",
+          "locale": "uk",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Diverse Artistar",
+          "name": "Diverse Artistar",
+          "locale": "nn",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Diverse Artister",
+          "name": "Diverse Artister",
+          "locale": "nb",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Artistes variés",
+          "name": "Artistes variés",
+          "locale": "fr",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "مختلف الفنانين",
+          "name": "مختلف الفنانين",
+          "locale": "ar",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "여러 아티스트",
+          "name": "여러 아티스트",
+          "locale": "ko",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Various Artists",
+          "name": "Various Artists",
+          "locale": "en",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Diverse Artiesten",
+          "name": "Diverse Artiesten",
+          "locale": "nl",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Diverse Interpreten",
+          "name": "Diverse Interpreten",
+          "locale": "de",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Diverse kunstnere",
+          "name": "Diverse kunstnere",
+          "locale": "da",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Vários artistas",
+          "name": "Vários artistas",
+          "locale": "pt",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Eri esittäjiä",
+          "name": "Eri esittäjiä",
+          "locale": "fi",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Varios artistas",
+          "name": "Varios artistas",
+          "locale": "es",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Erinevad esitajad",
+          "name": "Erinevad esitajad",
+          "locale": "et",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Çeşitli sanatçılar",
+          "name": "Çeşitli sanatçılar",
+          "locale": "tr",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Różni wykonawcy",
+          "name": "Różni wykonawcy",
+          "locale": "pl",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nhiều ca sĩ",
+          "name": "Nhiều ca sĩ",
+          "locale": "vi",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Razlièni izvajalci",
+          "name": "Razlièni izvajalci",
+          "locale": "sl",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Artistiaid Amrywiol",
+          "name": "Artistiaid Amrywiol",
+          "locale": "cy",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        { "count": -6, "name": "rock" },
+        { "count": -6, "name": "trance" },
+        { "count": -2, "name": "electronic" },
+        { "count": -6, "name": "classical" },
+        { "count": -6, "name": "pop" },
+        { "count": 52, "name": "special purpose artist" },
+        { "count": -8, "name": "jungle" },
+        { "count": -3, "name": "fixme" },
+        { "count": -6, "name": "instrumental" },
+        { "count": -7, "name": "chillout" },
+        { "count": -3, "name": "ambient" },
+        { "count": -5, "name": "rap" },
+        { "count": -6, "name": "jazz" },
+        { "count": -6, "name": "folk" },
+        { "count": -2, "name": "punk" },
+        { "count": -6, "name": "metal" },
+        { "count": -7, "name": "meta artist" },
+        { "count": -7, "name": "blues" },
+        { "count": -2, "name": "punk rock" },
+        { "count": -7, "name": "ska" },
+        { "count": -4, "name": "pop-rock" },
+        { "count": -2, "name": "experimental" },
+        { "count": -6, "name": "new wave" },
+        { "count": -7, "name": "electro" },
+        { "count": -6, "name": "hip hop" },
+        { "count": -7, "name": "bluegrass" },
+        { "count": -6, "name": "reggae" },
+        { "count": -7, "name": "rockabilly" },
+        { "count": -2, "name": "country" },
+        { "count": -4, "name": "world" },
+        { "count": -9, "name": "tango" },
+        { "count": -5, "name": "goth" },
+        { "count": -6, "name": "opera" },
+        { "count": -7, "name": "fusion" },
+        { "count": -6, "name": "indie" },
+        { "count": -5, "name": "kpop" },
+        { "count": 7, "name": "compilation" },
+        { "count": -6, "name": "new age" },
+        { "count": -7, "name": "eurodance" },
+        { "count": -6, "name": "psytrance" },
+        { "count": -6, "name": "lounge" },
+        { "count": -7, "name": "blues rock" },
+        { "count": -7, "name": "country rock" },
+        { "count": -5, "name": "classic" },
+        { "count": -3, "name": "fix me" },
+        { "count": -5, "name": "christmas" },
+        { "count": -5, "name": "folklore" },
+        { "count": -8, "name": "soft rock" },
+        { "count": -7, "name": "rock and roll" },
+        { "count": -6, "name": "progressive trance" },
+        { "count": -4, "name": "popular" },
+        { "count": -6, "name": "latin" },
+        { "count": -6, "name": "musical" },
+        { "count": -6, "name": "psychobilly" },
+        { "count": -4, "name": "live" },
+        { "count": -5, "name": "drum bass" },
+        { "count": -7, "name": "club" },
+        { "count": -4, "name": "chicago" },
+        { "count": -5, "name": "choral" },
+        { "count": -5, "name": "meditation" },
+        { "count": -5, "name": "japan" },
+        { "count": -5, "name": "ost" },
+        { "count": -5, "name": "basque" },
+        { "count": -5, "name": "español" },
+        { "count": 1, "name": "mashup" },
+        { "count": -7, "name": "candombe" },
+        { "count": -5, "name": "beethoven" },
+        { "count": -4, "name": "michael jackson" },
+        { "count": -4, "name": "trikitixa" },
+        {
+          "count": -5,
+          "name": "ultimate love songs greatest love of all disc 1"
+        },
+        { "count": -4, "name": "orthodox" },
+        { "count": -4, "name": "nederlands" },
+        { "count": -6, "name": "calypso" },
+        { "count": -6, "name": "ragga" },
+        {
+          "count": -9,
+          "name": "alternative pop ballad club dance electro france chanson german trance hip-hop rnb rock music soul vocal house"
+        },
+        { "count": -4, "name": "unknown" },
+        { "count": -5, "name": "full of fail tags" },
+        { "count": -4, "name": "nox" },
+        { "count": -4, "name": "wireharp" },
+        { "count": -5, "name": "bareto" },
+        { "count": -4, "name": "sprechgesang" },
+        { "count": -4, "name": "mohsen namjoo" },
+        { "count": -5, "name": "frédéric chopin" },
+        { "count": -4, "name": "klaus baumgart" },
+        { "count": -10, "name": "mess" },
+        { "count": -5, "name": "ibiza" },
+        { "count": -5, "name": "musica" },
+        { "count": -5, "name": "various artists" },
+        { "count": -4, "name": "healing sixes" },
+        { "count": -4, "name": "la grande sophie" },
+        { "count": -7, "name": "berlin school" },
+        { "count": -4, "name": "嫌われ松子の歌たち" },
+        { "count": -4, "name": "z103 5 street mix 2k7" },
+        { "count": -5, "name": "john coltrane" },
+        { "count": -7, "name": "binaural beats" },
+        { "count": -5, "name": "hemi-sync" },
+        { "count": -2, "name": "artist" },
+        { "count": -4, "name": "venezolana" },
+        { "count": -4, "name": "niroshima" },
+        { "count": -4, "name": "nitzer ebb" },
+        { "count": -5, "name": "bioshock soundtrack" },
+        { "count": -4, "name": "shankar jaikishan" },
+        { "count": -4, "name": "visions" },
+        { "count": -5, "name": "gérard palaprat" },
+        { "count": -7, "name": "local music of iran" },
+        { "count": -5, "name": "mary j blige" },
+        { "count": -5, "name": "bravo hits" },
+        { "count": -5, "name": "fix your tags" },
+        { "count": -5, "name": "infantil" },
+        { "count": -4, "name": "razieq" },
+        { "count": -4, "name": "rhythm del mundo" },
+        {
+          "count": -9,
+          "name": "http musicbrainz org release-group b2aa521d-001b-34ad-a5e9-ca310e55b254 html"
+        },
+        { "count": -5, "name": "dresch" },
+        { "count": -5, "name": "africa middle east" },
+        { "count": -4, "name": "montuno" },
+        { "count": -4, "name": "more 70" },
+        { "count": -7, "name": "backstreet boys" },
+        { "count": -5, "name": "classique" },
+        { "count": -6, "name": "80 s fresh new" },
+        { "count": -5, "name": "ussr ministry of culture chamber choir" },
+        { "count": -5, "name": "classwar karaoke" },
+        { "count": -4, "name": "josquin" },
+        { "count": -5, "name": "elc chritmas" },
+        { "count": -5, "name": "futebol" },
+        { "count": -5, "name": "gospel religious" },
+        { "count": -2, "name": "various" },
+        { "count": -6, "name": "armin van buuren" },
+        { "count": -4, "name": "tags" },
+        { "count": -4, "name": "kinderliedjes kapiteinwinokio humo" },
+        { "count": -5, "name": "absolute reggae" },
+        { "count": -5, "name": "hot hits" },
+        { "count": -5, "name": "celtic spirit vol 7" },
+        { "count": -4, "name": "soul cargo" },
+        { "count": -4, "name": "the welcome committee" },
+        { "count": -5, "name": "es lebe der punk" },
+        { "count": -4, "name": "mimicking birds" },
+        { "count": -4, "name": "liturgic" },
+        { "count": -4, "name": "miroque" },
+        { "count": -6, "name": "tejano" },
+        { "count": -5, "name": "devotional" },
+        { "count": -6, "name": "alirio diaz" },
+        { "count": -5, "name": "jucanto" },
+        { "count": -5, "name": "educacion" },
+        { "count": -4, "name": "liz" },
+        { "count": -4, "name": "liz andrade" },
+        { "count": -5, "name": "andrade" },
+        { "count": -4, "name": "old skool of rock disc 1" },
+        { "count": -4, "name": "vera kaa" },
+        { "count": -6, "name": "sunshine" },
+        { "count": -3, "name": "release" },
+        {
+          "count": -12,
+          "name": "1 16 217528 150 13231 25894 39556 62358 75112 86121 96491 108473 122788 134485 144086 155376 166189 186497 197822"
+        },
+        { "count": -5, "name": "marilyn manson" },
+        { "count": -5, "name": "cobles" },
+        { "count": -5, "name": "kinderchöre" },
+        { "count": -5, "name": "die drei" },
+        { "count": -6, "name": "sonic seducer cold hands vi" },
+        { "count": -5, "name": "andre powels" },
+        { "count": -4, "name": "zero t 51" },
+        { "count": -5, "name": "hillbilly" },
+        { "count": -4, "name": "tunguska chillout grooves" },
+        { "count": -5, "name": "birthday" },
+        { "count": -2, "name": "label as artist" },
+        { "count": -5, "name": "foreign language" },
+        { "count": -5, "name": "andrew york" },
+        { "count": -5, "name": "fjord" },
+        {
+          "count": -4,
+          "name": "we ll never stop living this way a ghostly primer"
+        },
+        { "count": -7, "name": "fuzzy artist" },
+        { "count": -6, "name": "shwetabh sucks" },
+        { "count": -3, "name": "glass" },
+        { "count": -5, "name": "dedicated to you vol 1" },
+        { "count": -4, "name": "mega" },
+        { "count": -4, "name": "piosenka poetycka muzyka autorska" },
+        { "count": -5, "name": "adam beyer" },
+        { "count": -5, "name": "billboard 1 hits" },
+        { "count": -2, "name": "r&b" },
+        { "count": -4, "name": "pzzqxnzt6snn_ekrngheoblbupu-" },
+        { "count": -6, "name": "don't rate the va artist ffs what" },
+        { "count": -6, "name": "50cents" },
+        { "count": -5, "name": "breakout artists" },
+        {
+          "count": -8,
+          "name": "stop using this for artist credits you are to lazy to look-up/make. ffs!"
+        },
+        {
+          "count": -7,
+          "name": "apparently people are unable to comprehend what \"various artists\" is"
+        },
+        { "count": -4, "name": "pavarotti" },
+        { "count": -5, "name": "desperado" },
+        { "count": -4, "name": "grase" },
+        { "count": -6, "name": "101 moments in music" },
+        {
+          "count": -5,
+          "name": "greatest ever! punk & new wave: the definitive collection"
+        },
+        { "count": -4, "name": "los 24 grandes éxitos de la zarzuela" },
+        { "count": -6, "name": "volkstümliche musik" },
+        { "count": -4, "name": "papeete" },
+        { "count": -5, "name": "2014" },
+        { "count": -3, "name": "fix" },
+        { "count": -4, "name": "zweiohr" },
+        { "count": -6, "name": "likedis auto" },
+        { "count": -4, "name": "ultimatecore" },
+        { "count": -5, "name": "a crooner collection" },
+        { "count": -4, "name": "lil eazy-e" },
+        {
+          "count": -9,
+          "name": "http://www.musik-sammler.de/cover/734500/734011.jpg"
+        },
+        { "count": -5, "name": "bravo hits 82" },
+        { "count": -5, "name": "devotional buddhist chants" },
+        { "count": -7, "name": "don't tag the va artist wtf" },
+        { "count": -5, "name": "fail tags" },
+        { "count": -4, "name": "mess mess" },
+        { "count": -5, "name": "fix tags" },
+        {
+          "count": -5,
+          "name": "why are you downvoting the \"mess\" tag? it is a mess!"
+        },
+        {
+          "count": -5,
+          "name": "stop using this for artist credits you are to lazy to look-up/make"
+        },
+        { "count": -5, "name": "don't rate the va artist" },
+        { "count": -5, "name": "don't tag the va artist" },
+        { "count": -5, "name": "messy tags" },
+        { "count": -5, "name": "tagmess" },
+        { "count": -5, "name": "various artist; not *every* artist" },
+        { "count": -4, "name": "shine 4" },
+        { "count": -4, "name": "has german audiobooks" },
+        { "count": -5, "name": "2001 space odyssey" },
+        { "count": -3, "name": "oldest artist #1" },
+        { "count": -4, "name": "casanovas" },
+        { "count": -5, "name": "2017" },
+        { "count": -4, "name": "мелодии рождества" },
+        { "count": -5, "name": "no this is still a mess" },
+        { "count": -4, "name": "mess mess mess" },
+        {
+          "count": -4,
+          "name": "why are you voting down tags that explain stuff"
+        },
+        { "count": -5, "name": "you *should* fix your tags" },
+        { "count": -4, "name": "still a mess" },
+        {
+          "count": -5,
+          "name": "stop using this for artist credits you are to lazy to look-up/make. srsly"
+        },
+        { "count": -4, "name": "practically all these tags are fail" },
+        { "count": -5, "name": "faaaaaail" },
+        { "count": -5, "name": "failtags" },
+        { "count": -4, "name": "rename into [various artists]" },
+        {
+          "count": -7,
+          "name": "no matter how long you keep voting down the \"fixme\" tag i will fight you. this should be fixed"
+        },
+        { "count": -4, "name": "please fix" },
+        { "count": -5, "name": "fix mess" },
+        { "count": -4, "name": "tagsmess" },
+        {
+          "count": -6,
+          "name": "don t tag the va artist (yes i am aware of this irony)"
+        },
+        { "count": -5, "name": "don t rate the va artist" },
+        {
+          "count": -5,
+          "name": "don't use this for artist credits you are to lazy to look-up/make"
+        },
+        { "count": -4, "name": "groom to the gallows" },
+        { "count": -4, "name": "megafixme" },
+        { "count": -4, "name": "loosers that downvote fixmetags are ..." },
+        { "count": -5, "name": "stop using this for artist credits period!" },
+        {
+          "count": -4,
+          "name": "don t use this for artist credits you are to lazy to look-up/make"
+        },
+        { "count": -5, "name": "[various artists]" },
+        { "count": -5, "name": "f to the i to the x to the m to the e" },
+        { "count": -5, "name": "do not using this for artist credits" },
+        {
+          "count": -5,
+          "name": "you do realise that every time you downvote a fixme-tag below 0 i unvote it and that tag now permanently stays in the expanded list?"
+        },
+        { "count": -4, "name": "kindly fix" },
+        { "count": -4, "name": "kindly fixme" },
+        { "count": -5, "name": "please rename to [various artists]" },
+        { "count": -5, "name": "don't tag or rate the various artist" },
+        { "count": -2, "name": "ncs" },
+        { "count": -5, "name": "21 throwback jams" },
+        { "count": -4, "name": "acoustic best" },
+        { "count": -4, "name": "legion of von" },
+        { "count": -4, "name": "my sharona" },
+        { "count": -4, "name": "cdx" },
+        { "count": -4, "name": "5099265803" },
+        { "count": -4, "name": "experience the classics" },
+        { "count": -3, "name": "absolute voices" },
+        { "count": -4, "name": "ƒk₷ℳ€" },
+        { "count": -4, "name": "ḟixme" },
+        { "count": -3, "name": "oldest artist rowid" },
+        { "count": -3, "name": "fix‌me" },
+        {
+          "count": -5,
+          "name": "bring up on-par with the other spa's and put this in brackets"
+        },
+        {
+          "count": -4,
+          "name": "i give up on the immature people in the tags here."
+        },
+        {
+          "count": -3,
+          "name": "please consider not using this for artist credits"
+        },
+        { "count": -3, "name": "m‌ess" },
+        { "count": -3, "name": "number 1" },
+        { "count": -2, "name": "driven by 80s anthems" },
+        {
+          "count": -4,
+          "name": "to the guy that keeps downvoting *every* tag on the va artist"
+        },
+        {
+          "count": -5,
+          "name": "every-time you and others downvote. it registers in your tags. then i remove my vote. presto! you're the only one keeping it here!"
+        },
+        { "count": -3, "name": "put in brackets" },
+        { "count": -2, "name": "hollywood hits" },
+        { "count": -3, "name": "new generations" },
+        { "count": -3, "name": "new generations philip glass" },
+        { "count": -2, "name": "compilatie" },
+        { "count": -2, "name": "celtic celebration" },
+        { "count": -3, "name": "leaving on a jet plan" },
+        { "count": -3, "name": "bflaminio" },
+        { "count": -2, "name": "ronak bhatt" },
+        { "count": 9, "name": "special purpose" },
+        { "count": -2, "name": "dfree843" },
+        { "count": -2, "name": "cdnnnow128" },
+        { "count": -1, "name": "tag spam" },
+        {
+          "count": -2,
+          "name": "va - we were first - 180 hits in their original versions (2014)"
+        }
+      ]
+    },
+    {
+      "id": "614e3804-7d34-41ba-857f-811bad7c2b7a",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 97,
+      "name": "Dire Straits",
+      "sort-name": "Dire Straits",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": { "ended": null }
+      },
+      "begin-area": {
+        "id": "78b0f0f0-2b13-42c3-b99a-c8a6428ab112",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Deptford",
+        "sort-name": "Deptford",
+        "life-span": { "ended": null }
+      },
+      "isnis": ["0000000123234879"],
+      "life-span": { "begin": "1977", "end": "1995", "ended": true },
+      "aliases": [
+        {
+          "sort-name": "Dire Straits (TH)",
+          "name": "Dire Straits (TH)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dire Straights",
+          "name": "Dire Straights",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        { "count": 18, "name": "rock" },
+        { "count": 3, "name": "british" },
+        { "count": 0, "name": "uk" },
+        { "count": 0, "name": "band" },
+        { "count": 1, "name": "guitar" },
+        { "count": 1, "name": "blues rock" },
+        { "count": 0, "name": "country rock" },
+        { "count": 5, "name": "classic rock" },
+        { "count": 0, "name": "group" },
+        { "count": 0, "name": "1980s" },
+        { "count": 0, "name": "1990s" },
+        { "count": 0, "name": "1970s" },
+        { "count": 5, "name": "soft rock" },
+        { "count": 3, "name": "pop rock" },
+        { "count": 3, "name": "roots rock" },
+        { "count": 1, "name": "pub rock" },
+        { "count": 0, "name": "english" },
+        { "count": 0, "name": "classic pop and rock" },
+        { "count": 1, "name": "sophisti-pop" },
+        { "count": 1, "name": "rock & roll" },
+        { "count": 0, "name": "pop/rock" },
+        { "count": 0, "name": "id_artist" }
+      ]
+    },
+    {
+      "id": "afad9e05-28f7-4932-b627-c54978e1c4ff",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 96,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "TH Moy",
+      "sort-name": "TH Moy",
+      "gender": "male",
+      "area": {
+        "id": "8a96355e-be27-41a6-9d13-020fd133e9fb",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Girona",
+        "sort-name": "Girona",
+        "life-span": { "ended": null }
+      },
+      "disambiguation": "house",
+      "life-span": { "ended": null }
+    },
+    {
+      "id": "3282ae38-928c-4c57-8e8e-26de565c2d31",
+      "score": 94,
+      "name": "TH",
+      "sort-name": "TH",
+      "disambiguation": "French rapper",
+      "life-span": { "ended": null }
+    },
+    {
+      "id": "20e2ef65-c739-45b8-9832-57c1bb23ba97",
+      "score": 92,
+      "name": "TH",
+      "sort-name": "TH",
+      "disambiguation": "Peach discs",
+      "life-span": { "ended": null }
+    },
+    {
+      "id": "188d22be-24fa-41e8-958a-0e0aebc4c8bf",
+      "score": 92,
+      "name": "T.H.",
+      "sort-name": "T.H.",
+      "disambiguation": "house",
+      "life-span": { "ended": null }
+    },
+    {
+      "id": "b4013ff1-d7ce-4b1a-af6e-e0b19ca7f378",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 91,
+      "name": "Big Country",
+      "sort-name": "Big Country",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": { "ended": null }
+      },
+      "begin-area": {
+        "id": "8802de90-150b-48f6-8f83-64a9601ad014",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Dunfermline",
+        "sort-name": "Dunfermline",
+        "life-span": { "ended": null }
+      },
+      "isnis": ["0000000109457267"],
+      "life-span": { "begin": "1981-06", "ended": null },
+      "tags": [
+        { "count": 3, "name": "rock" },
+        { "count": 2, "name": "alternative rock" },
+        { "count": 2, "name": "scottish" },
+        { "count": 1, "name": "post-punk" },
+        { "count": 5, "name": "new wave" },
+        { "count": 1, "name": "1980s" },
+        { "count": 1, "name": "1990s" },
+        { "count": 2, "name": "pop rock" },
+        { "count": 1, "name": "new romantic" },
+        { "count": 4, "name": "celtic rock" },
+        { "count": 0, "name": "classic pop and rock" },
+        { "count": 0, "name": "big country" },
+        { "count": 2, "name": "big music" }
+      ]
+    },
+    {
+      "id": "bd1180c4-4252-461f-94dc-543906c02522",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 90,
+      "name": "Mr. Big",
+      "sort-name": "Mr. Big",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": { "ended": null }
+      },
+      "begin-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": { "ended": null }
+      },
+      "end-area": {
+        "id": "15b344a0-8fb9-42f3-81b1-c90d15edc30c",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Bistrița-Năsăud",
+        "sort-name": "Bistrița-Năsăud",
+        "life-span": { "ended": null }
+      },
+      "disambiguation": "American hard rock band",
+      "isnis": ["0000000123245957"],
+      "life-span": { "begin": "1988", "end": "2024-08-23", "ended": true },
+      "aliases": [
+        {
+          "sort-name": "Mr Big",
+          "name": "Mr Big",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Big, Mr",
+          "name": "Big, Mr",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mr.Big",
+          "name": "Mr.Big",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        { "count": 2, "name": "rock" },
+        { "count": 5, "name": "hard rock" },
+        { "count": 2, "name": "acoustic rock" },
+        { "count": 2, "name": "pop rock" },
+        { "count": 2, "name": "glam metal" },
+        { "count": 1, "name": "aor" },
+        { "count": 0, "name": "classic pop and rock" },
+        { "count": 0, "name": "mr. big" },
+        { "count": 1, "name": "estados unidos" }
+      ]
+    },
+    {
+      "id": "192a0328-0601-49f8-af01-15e4cc1eeb33",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 88,
+      "name": "T.H. Express",
+      "sort-name": "T.H. Express",
+      "life-span": { "ended": null },
+      "aliases": [
+        {
+          "sort-name": "Th Express",
+          "name": "Th Express",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "d5d97b2b-b83b-4976-814a-056d9076c8c3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 88,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "The Notorious B.I.G.",
+      "sort-name": "Notorious B.I.G., The",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": { "ended": null }
+      },
+      "begin-area": {
+        "id": "eef8014c-2124-4e11-b26d-8bbd5234154f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Clinton Hill",
+        "sort-name": "Clinton Hill",
+        "life-span": { "ended": null }
+      },
+      "end-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": { "ended": null }
+      },
+      "ipis": ["00336885622"],
+      "isnis": ["0000000073296536", "0000000368449835"],
+      "life-span": {
+        "begin": "1972-05-21",
+        "end": "1997-03-09",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Christopher Wallace",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Christopher Wallace",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "BIG",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "BIG",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Notorious B.I.G., The",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "The Notorious B.I.G.",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Notorious B. I. G.",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Notorious B. I. G.",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Notorious B.I.G",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Notorious B.I.G",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Notrious B.I.G",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Notrious B.I.G",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "The Notorious B. I. G.",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "The Notorious B. I. G.",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "C. Wallace",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "C. Wallace",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Biggie Smallz",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Biggie Smallz",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Wallace, Christopher George Latore",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Christopher George Latore Wallace",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Notorious B.I.G.",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Notorious B.I.G.",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Notorious BIG",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Notorious BIG",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "The Notorious BIG",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "The Notorious BIG",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Notorious BIG.",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Notorious BIG.",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Biggy Smalls",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Biggy Smalls",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Biggie Smalls",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Biggie Smalls",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Biggie",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Biggie",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        { "count": 6, "name": "east coast hip hop" },
+        { "count": 2, "name": "hardcore hip hop" },
+        { "count": 0, "name": "hip hop rnb and dance hall" },
+        { "count": 6, "name": "gangsta rap" },
+        { "count": 8, "name": "hip hop" },
+        { "count": 0, "name": "rap" },
+        { "count": 1, "name": "boom bap" },
+        { "count": 1, "name": "death by murder" }
+      ]
+    },
+    {
+      "id": "05bc49f8-3108-44c8-82b9-ac3254896a69",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 88,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Big Bill Broonzy",
+      "sort-name": "Broonzy, Big Bill",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": { "ended": null }
+      },
+      "begin-area": {
+        "id": "93bfeb52-2192-4823-b05a-244e6ccdf30b",
+        "type": "County",
+        "type-id": "bcecec27-8bdb-3e00-8254-d948dda502fa",
+        "name": "Jefferson County",
+        "sort-name": "Jefferson County",
+        "life-span": { "ended": null }
+      },
+      "end-area": {
+        "id": "29a709d8-0320-493e-8d0c-f2c386662b7f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Chicago",
+        "sort-name": "Chicago",
+        "life-span": { "ended": null }
+      },
+      "ipis": ["00136044795"],
+      "isnis": ["0000000110379542"],
+      "life-span": {
+        "begin": "1893-06-26",
+        "end": "1958-08-15",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Big Bill Broomsley",
+          "name": "Big Bill Broomsley",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bradley, Lee Conley",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Lee Conley Bradley",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Big Bill Bronzy",
+          "name": "Big Bill Bronzy",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Big Bill Broozy",
+          "name": "Big Bill Broozy",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Big Boy Broonzy",
+          "name": "Big Boy Broonzy",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bill Broonzy",
+          "name": "Bill Broonzy",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Big Bill Brooney",
+          "name": "Big Bill Brooney",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sammy Sampson",
+          "name": "Sammy Sampson",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        { "count": 1, "name": "american" },
+        { "count": 3, "name": "blues" },
+        { "count": 4, "name": "country blues" },
+        { "count": 2, "name": "delta blues" },
+        { "count": 1, "name": "folk blues" },
+        { "count": 2, "name": "acoustic blues" },
+        { "count": -1, "name": "death by throat cancer" },
+        { "count": 3, "name": "acoustic chicago blues" },
+        { "count": 1, "name": "2008 universal fire victim" }
+      ]
+    },
+    {
+      "id": "395050f8-a66e-49eb-a915-0fd68253eb6f",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 88,
+      "name": "Big Big Train",
+      "sort-name": "Big Big Train",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": { "ended": null }
+      },
+      "begin-area": {
+        "id": "ca133b15-39a3-449a-95d8-9008c437da7d",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Bournemouth",
+        "sort-name": "Bournemouth",
+        "life-span": { "ended": null }
+      },
+      "isnis": ["0000000470934036"],
+      "life-span": { "begin": "1990", "ended": null },
+      "tags": [
+        { "count": 2, "name": "crossover prog" },
+        { "count": 1, "name": "british" },
+        { "count": 1, "name": "uk" },
+        { "count": 1, "name": "english" },
+        { "count": 6, "name": "progressive rock" },
+        { "count": 1, "name": "retro prog" }
+      ]
+    },
+    {
+      "id": "3f5be744-e867-42fb-8913-5fd69e4099b5",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 87,
+      "name": "Chicago",
+      "sort-name": "Chicago",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": { "ended": null }
+      },
+      "begin-area": {
+        "id": "29a709d8-0320-493e-8d0c-f2c386662b7f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Chicago",
+        "sort-name": "Chicago",
+        "life-span": { "ended": null }
+      },
+      "disambiguation": "American pop rock/jazz fusion band",
+      "isnis": ["0000000119423263"],
+      "life-span": { "begin": "1967", "ended": null },
+      "aliases": [
+        {
+          "sort-name": "Chicago Transit Authority",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Chicago Transit Authority",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": "1969"
+        },
+        {
+          "sort-name": "The Big Thing",
+          "name": "The Big Thing",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chigaco",
+          "name": "Chigaco",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        { "count": 8, "name": "rock" },
+        { "count": 1, "name": "pop" },
+        { "count": 1, "name": "jazz" },
+        { "count": 0, "name": "american" },
+        { "count": -1, "name": "hard rock" },
+        { "count": 1, "name": "jazz rock" },
+        { "count": 4, "name": "soft rock" },
+        { "count": 1, "name": "adult contemporary" },
+        { "count": 3, "name": "pop rock" },
+        { "count": 1, "name": "jazz-rock" },
+        { "count": 3, "name": "aor" },
+        { "count": -1, "name": "classic pop and rock" },
+        { "count": 0, "name": "self-titled" }
+      ]
+    },
+    {
+      "id": "b65fca3a-b022-4a4b-938a-728e55749ccc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 87,
+      "name": "DJ T.H.",
+      "sort-name": "T.H., DJ",
+      "life-span": { "ended": null }
+    },
+    {
+      "id": "21d177ba-3d51-461e-9b3f-ad9a80b419dc",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 87,
+      "name": "Big Star",
+      "sort-name": "Big Star",
+      "area": {
+        "id": "c2d96f61-75a4-4375-aed5-6aacb0b6326a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Memphis",
+        "sort-name": "Memphis",
+        "life-span": { "ended": null }
+      },
+      "begin-area": {
+        "id": "c2d96f61-75a4-4375-aed5-6aacb0b6326a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Memphis",
+        "sort-name": "Memphis",
+        "life-span": { "ended": null }
+      },
+      "end-area": {
+        "id": "c2d96f61-75a4-4375-aed5-6aacb0b6326a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Memphis",
+        "sort-name": "Memphis",
+        "life-span": { "ended": null }
+      },
+      "isnis": ["0000000123373094"],
+      "life-span": { "begin": "1971", "end": "2010-05-15", "ended": true },
+      "aliases": [
+        {
+          "sort-name": "Big Star (Alex Chilton)",
+          "name": "Big Star (Alex Chilton)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        { "count": 1, "name": "rock" },
+        { "count": 1, "name": "70s" },
+        { "count": 3, "name": "power pop" },
+        { "count": 3, "name": "pop rock" },
+        { "count": 1, "name": "folk pop" },
+        { "count": 1, "name": "classic pop and rock" },
+        { "count": 1, "name": "united states" },
+        { "count": 1, "name": "christmas music" }
+      ]
+    },
+    {
+      "id": "bd645a5c-0019-409e-bd0c-1317baee418d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 86,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "T.V. Smith",
+      "sort-name": "Smith, T.V.",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": { "ended": null }
+      },
+      "begin-area": {
+        "id": "fb27d5c6-f3b0-418f-aba7-9ceac482d1dd",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Romford",
+        "sort-name": "Romford",
+        "life-span": { "ended": null }
+      },
+      "ipis": ["00085147858"],
+      "life-span": { "begin": "1956-04-05", "ended": null },
+      "aliases": [
+        {
+          "sort-name": "Smith, TV",
+          "name": "TV Smith",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "T.V. Sm!th",
+          "name": "T.V. Sm!th",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "TVSm!th",
+          "name": "TVSm!th",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "TVSmith",
+          "name": "TVSmith",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "TV Sm!th",
+          "name": "TV Sm!th",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        { "count": 1, "name": "punk" },
+        { "count": 1, "name": "seen live" },
+        { "count": 1, "name": "singer-songwriter" },
+        { "count": 1, "name": "england" }
+      ]
+    },
+    {
+      "id": "56405de8-5fb9-4dca-9a02-8cc5b2e67e7d",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 86,
+      "name": "Th' Dudes",
+      "sort-name": "Th' Dudes",
+      "country": "NZ",
+      "area": {
+        "id": "8524c7d9-f472-3890-a458-f28d5081d9c4",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "New Zealand",
+        "sort-name": "New Zealand",
+        "life-span": { "ended": null }
+      },
+      "life-span": { "begin": "1976", "end": "1980", "ended": true },
+      "aliases": [
+        {
+          "sort-name": "The Dudes",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "The Dudes",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "b123ba15-c4a5-4281-8117-2e57f8f02496",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 86,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Big Joe Turner",
+      "sort-name": "Turner, Big Joe",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": { "ended": null }
+      },
+      "begin-area": {
+        "id": "c1fc21db-40e9-47f5-af93-f3ebe6581113",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kansas City",
+        "sort-name": "Kansas City",
+        "life-span": { "ended": null }
+      },
+      "end-area": {
+        "id": "c97f3307-fc87-481c-8635-d00a990efb7c",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Inglewood",
+        "sort-name": "Inglewood",
+        "life-span": { "ended": null }
+      },
+      "ipis": ["00031198894", "00065253287"],
+      "isnis": ["0000000066405554"],
+      "life-span": {
+        "begin": "1911-05-18",
+        "end": "1985-11-24",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Turner, Joseph Vernon",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Joseph Vernon Turner",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Big\" Joe Turner",
+          "name": "\"Big\" Joe Turner",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Joe Turner & His Blues Kings",
+          "name": "Joe Turner & His Blues Kings",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Joe Turner",
+          "name": "Joe Turner",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "'Big' Joe Turner",
+          "name": "'Big' Joe Turner",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Joe Turner (with The Cookies)",
+          "name": "Joe Turner (with The Cookies)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        { "count": 1, "name": "rock and roll" },
+        { "count": 1, "name": "jump blues" },
+        { "count": 2, "name": "blues" },
+        { "count": -1, "name": "death by heart attack" },
+        { "count": 1, "name": "r&b" }
+      ]
+    },
+    {
+      "id": "a7b217aa-3d3b-42e0-943f-b9e1dfeea62b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 85,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Th. Hoffmann",
+      "sort-name": "Hoffmann, Th.",
+      "gender": "male",
+      "area": {
+        "id": "e2bd38a1-c5ad-4dd4-b9a4-0632ff3be7ae",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Zurich",
+        "sort-name": "Zurich",
+        "life-span": { "ended": null }
+      },
+      "life-span": { "begin": "1980-06-18", "ended": null }
+    },
+    {
+      "id": "7cc0c533-bdf3-4cd3-8ec8-f4978403a5b3",
+      "score": 84,
+      "name": "T.H. Industry",
+      "sort-name": "T.H. Industry",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": { "ended": null }
+      },
+      "life-span": { "ended": null },
+      "aliases": [
+        {
+          "sort-name": "T.H.Industry",
+          "name": "T.H.Industry",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "T.H. Industries",
+          "name": "T.H. Industries",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "2993f855-403f-4c6a-bea9-088cd5d354dc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 84,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Big Mama Thornton",
+      "sort-name": "Thornton, Big Mama",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": { "ended": null }
+      },
+      "begin-area": {
+        "id": "a6c1d750-8b92-4499-a870-ee98ba2ffe7c",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Ariton",
+        "sort-name": "Ariton",
+        "life-span": { "ended": null }
+      },
+      "end-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": { "ended": null }
+      },
+      "isnis": ["0000000115070720"],
+      "life-span": {
+        "begin": "1926-12-11",
+        "end": "1984-07-25",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Willie Mae Thornton",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Willie Mae Thornton",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ソーントン, ビッグ・ママ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ビッグ・ママ・ソーントン",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Торнтон, Биг Мама",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Биг Мама Торнтон",
+          "locale": "sr_Cyrl",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tornton, Big Mama",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Big Mama Tornton",
+          "locale": "sr_Latn",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Willie Mae “Big Mama” Thomton",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Willie Mae “Big Mama” Thomton",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Thornton, Willie May",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Willie May Thornton",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Thornton, Willie Mae “Big Mama”",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Willie Mae “Big Mama” Thornton",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Торнтон, Биг Мама",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Биг Мама Торнтон",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "തോണ്ടൺ, ബിഗ് മാമാ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ബിഗ് മാമാ തോണ്ടൺ",
+          "locale": "ml",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ת'ורנטון, ביג מאמא",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ביג מאמא ת'ורנטון",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "تورنتون, بیگ مامان",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "بیگ مامان تورنتون",
+          "locale": "fa",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "تورنتون, بیق ماما",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "بیق ماما تورنتون",
+          "locale": "az",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ثورنتون, بيج ماما",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "بيج ماما ثورنتون",
+          "locale": "ar_EG",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Торнтон, Біг Мама",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Біг Мама Торнтон",
+          "locale": "uk",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "손튼, 빅 마마",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "빅 마마 손튼",
+          "locale": "ko",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Thornton, Big Mama",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Big Mama Thornton",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Big Mamma Thornton",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Big Mamma Thornton",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Thornton, Binnie Willie Mae",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Binnie Willie Mae Thornton",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Willie Mae",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Willie Mae",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Big Mama Thirnton",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Big Mama Thirnton",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Willie Mae Thorton",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Willie Mae Thorton",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        { "count": 1, "name": "r&b" },
+        { "count": 1, "name": "2008 universal fire victim" }
+      ]
+    },
+    {
+      "id": "1e8ab7e4-d22c-4fb0-a11c-6ac19fea4832",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 84,
+      "name": "T.H. White",
+      "sort-name": "T.H. White",
+      "life-span": { "ended": null },
+      "aliases": [
+        {
+          "sort-name": "White, TH",
+          "name": "TH White",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "3ea7af78-d16a-4e08-b70c-f05e03d6f628",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 84,
+      "name": "Th;en",
+      "sort-name": "Th;en",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": { "ended": null }
+      },
+      "life-span": { "begin": "2013", "ended": null }
+    },
+    {
+      "id": "6e4cbcf5-1b18-4719-98c2-7a2c9eccaa6d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 84,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Big Youth",
+      "sort-name": "Big Youth",
+      "gender": "male",
+      "country": "JM",
+      "area": {
+        "id": "2dd47a64-91d5-3b13-bc94-80043ed063d7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Jamaica",
+        "sort-name": "Jamaica",
+        "life-span": { "ended": null }
+      },
+      "begin-area": {
+        "id": "8b70d0ee-538d-429e-9609-e7b2c999d0db",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Trenchtown",
+        "sort-name": "Trenchtown",
+        "life-span": { "ended": null }
+      },
+      "isnis": ["0000000055174359", "000000036837268X"],
+      "life-span": { "begin": "1949-04-19", "ended": null },
+      "aliases": [
+        {
+          "sort-name": "Buchanan, Manley Augustus",
+          "name": "Manley Augustus Buchanan",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        { "count": 1, "name": "jamaican" },
+        { "count": 1, "name": "classic pop and rock" }
+      ]
+    },
+    {
+      "id": "28668b1e-f6d4-4473-b40f-dbea339c5011",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 83,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "TH Anatol",
+      "sort-name": "TH Anatol",
+      "gender": "male",
+      "life-span": { "ended": null }
+    },
+    {
+      "id": "609e7afd-3552-4102-9501-7611858ea320",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 83,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Big Pun",
+      "sort-name": "Big Pun",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": { "ended": null }
+      },
+      "begin-area": {
+        "id": "eb4a386e-1178-4e3a-a371-30418dd6fd2e",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "The Bronx",
+        "sort-name": "The Bronx",
+        "life-span": { "ended": null }
+      },
+      "end-area": {
+        "id": "88ef07c5-a926-4ea6-a601-8e224a6763c0",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "White Plains",
+        "sort-name": "White Plains",
+        "life-span": { "ended": null }
+      },
+      "ipis": ["00340481879"],
+      "isnis": ["0000000055166762"],
+      "life-span": {
+        "begin": "1971-11-10",
+        "end": "2000-02-07",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "ビッグ・パニッシャー",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ビッグ・パニッシャー",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ビッグ・パン",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ビッグ・パン",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rios, Christopher Lee",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Christopher Lee Rios",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Big Moon Dawg",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Big Moon Dawg",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Big Punisher",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Big Punisher",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Big Pun",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Big Pun",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Punisher, The",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "The Punisher",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Big Punisha",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Big Punisha",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Christopher Rios",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Christopher Rios",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "C. Rios",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "C. Rios",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        { "count": 4, "name": "hip hop" },
+        { "count": 2, "name": "gangsta rap" },
+        { "count": 2, "name": "east coast hip hop" },
+        { "count": 2, "name": "hardcore hip hop" }
+      ]
+    },
+    {
+      "id": "0b7ee619-16ed-4e60-b871-6a2111c12b76",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 83,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "James Last",
+      "sort-name": "Last, James",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": { "ended": null }
+      },
+      "begin-area": {
+        "id": "9c607066-ceb6-4a78-a614-4c14a2b3ec35",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bremen",
+        "sort-name": "Bremen",
+        "life-span": { "ended": null }
+      },
+      "end-area": {
+        "id": "7689801e-0317-4e60-9d01-89ca002a887a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "West Palm Beach",
+        "sort-name": "West Palm Beach",
+        "life-span": { "ended": null }
+      },
+      "disambiguation": "German big band leader & composer, 1929–2015",
+      "ipis": ["00013820126", "00017369773", "00017369871", "00029409577"],
+      "isnis": ["000000007829074X"],
+      "life-span": {
+        "begin": "1929-04-17",
+        "end": "2015-06-09",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Stahl, Hans",
+          "name": "Hans Stahl",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bass, Mr.",
+          "name": "Mr. Bass",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hansi",
+          "name": "Hansi",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hendricks, Jean",
+          "name": "Jean Hendricks",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Last, Hans",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Hans Last",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Last, D.",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Д. Ласт",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        { "count": 3, "name": "german" },
+        { "count": 2, "name": "jazz" },
+        { "count": 1, "name": "easy listening" },
+        { "count": 1, "name": "european" },
+        { "count": 1, "name": "acoustic porridge" }
+      ]
+    },
+    {
+      "id": "0bbbc496-c7b5-4b3f-bb6d-bd312827d6e5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 83,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Roy Orbison",
+      "sort-name": "Orbison, Roy",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": { "ended": null }
+      },
+      "begin-area": {
+        "id": "3c478511-9548-43c7-ad7a-79e1ac01d4c2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Vernon",
+        "sort-name": "Vernon",
+        "life-span": { "ended": null }
+      },
+      "end-area": {
+        "id": "bcb35f1d-6a1f-4383-a384-b196b95e2339",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hendersonville",
+        "sort-name": "Hendersonville",
+        "life-span": { "ended": null }
+      },
+      "ipis": ["00022974973"],
+      "isnis": ["000000007358057X"],
+      "life-span": {
+        "begin": "1936-04-23",
+        "end": "1988-12-06",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Orbison",
+          "name": "Orbison",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Big O, The",
+          "name": "The Big O",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Orbison, Roy Kelton",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Roy Kelton Orbison",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ray Orbison",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Ray Orbison",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Roy Orbisson",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Roy Orbisson",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Roy Orbsion",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Roy Orbsion",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Roy Orbinson",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Roy Orbinson",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Wilbury, Lefty",
+          "name": "Lefty Wilbury",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": "1988",
+          "end-date": "1988"
+        }
+      ],
+      "tags": [
+        { "count": 1, "name": "rock" },
+        { "count": 4, "name": "pop" },
+        { "count": -1, "name": "american" },
+        { "count": 1, "name": "singer-songwriter" },
+        { "count": 5, "name": "rockabilly" },
+        { "count": 1, "name": "country" },
+        { "count": 1, "name": "folk rock" },
+        { "count": 0, "name": "baroque pop" },
+        { "count": 1, "name": "classic rock" },
+        { "count": 4, "name": "pop rock" },
+        { "count": 1, "name": "blue-eyed soul" },
+        { "count": 1, "name": "country pop" },
+        { "count": 2, "name": "rock and roll" },
+        { "count": -1, "name": "classic pop and rock" },
+        { "count": 1, "name": "traditional pop" },
+        { "count": -2, "name": "death by heart attack" },
+        { "count": 3, "name": "rock & roll" },
+        { "count": 1, "name": "rock-and-roll" },
+        { "count": 1, "name": "adult standards" },
+        { "count": 1, "name": "mellow gold" }
+      ]
+    },
+    {
+      "id": "f4147d1b-e5e6-462a-8e8b-6e7beb94eb51",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 83,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Sm^th",
+      "sort-name": "Sm^th",
+      "gender": "male",
+      "area": {
+        "id": "4dc3fa97-cf9b-43f0-bec9-fcc52d6215d5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Milwaukee",
+        "sort-name": "Milwaukee",
+        "life-span": { "ended": null }
+      },
+      "disambiguation": "instrumental hip‐hop",
+      "life-span": { "ended": null },
+      "aliases": [
+        {
+          "sort-name": "Sheahan, Michael",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Michael Sheahan",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "617193cc-0d55-47e5-a18c-b01e7fee32c1",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 83,
+      "name": "Tara King Th.",
+      "sort-name": "Tara King Th.",
+      "area": {
+        "id": "7f996abe-449b-4209-a0f8-c6ba9105e5e7",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Rhône-Alpes",
+        "sort-name": "Rhône-Alpes",
+        "life-span": { "end": "2016-01-01", "ended": true }
+      },
+      "life-span": { "begin": "2003", "ended": null },
+      "aliases": [
+        {
+          "sort-name": "Tara King Theory, The",
+          "name": "The Tara King Theory",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tara King Th",
+          "name": "Tara King Th",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

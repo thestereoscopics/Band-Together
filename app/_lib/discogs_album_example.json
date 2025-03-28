@@ -1,0 +1,159 @@
+{
+  "id": 3590696,
+  "main_release": 31663715,
+  "most_recent_release": 33113271,
+  "resource_url": "https://api.discogs.com/masters/3590696",
+  "uri": "https://www.discogs.com/master/3590696-MJ-Lenderman-Manning-Fireworks",
+  "versions_url": "https://api.discogs.com/masters/3590696/versions",
+  "main_release_url": "https://api.discogs.com/releases/31663715",
+  "most_recent_release_url": "https://api.discogs.com/releases/33157398",
+  "num_for_sale": 90,
+  "lowest_price": 11.61,
+  "images": [
+    {
+      "type": "secondary",
+      "uri": "",
+      "resource_url": "",
+      "uri150": "",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "genres": ["Rock"],
+  "styles": ["Country Rock", "Indie Rock"],
+  "year": 2024,
+  "tracklist": [
+    {
+      "position": "1",
+      "type_": "track",
+      "title": "Manning Fireworks",
+      "duration": "2:59"
+    },
+    {
+      "position": "2",
+      "type_": "track",
+      "title": "Joker Lips",
+      "duration": "3:01"
+    },
+    {
+      "position": "3",
+      "type_": "track",
+      "title": "Rudolph",
+      "duration": "3:31"
+    },
+    {
+      "position": "4",
+      "type_": "track",
+      "title": "Wristwatch",
+      "duration": "3:42"
+    },
+    {
+      "position": "5",
+      "type_": "track",
+      "title": "She's Leaving You",
+      "duration": "4:38"
+    },
+    {
+      "position": "6",
+      "type_": "track",
+      "title": "Rip Torn",
+      "duration": "3:32"
+    },
+    {
+      "position": "7",
+      "type_": "track",
+      "title": "You Don't Know The Shape I'm In",
+      "duration": "3:36"
+    },
+    {
+      "position": "8",
+      "type_": "track",
+      "title": "On My Knees",
+      "duration": "3:52"
+    },
+    {
+      "position": "9",
+      "type_": "track",
+      "title": "Bark At The Moon",
+      "duration": "10:00"
+    }
+  ],
+  "artists": [
+    {
+      "name": "MJ Lenderman",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 6247429,
+      "resource_url": "https://api.discogs.com/artists/6247429"
+    }
+  ],
+  "title": "Manning Fireworks",
+  "data_quality": "Correct",
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=hajltNGPfps",
+      "title": "MJ Lenderman - Manning Fireworks (Full Album Stream)",
+      "description": "Listen to the full album here: https://antircrds.io/3ZdHOIu \n\"Manning Fireworks\" by MJ Lenderman from the album \"Manning Fireworks\", out now\nOrder, stream & download: https://mjlenderman.ffm.to/manningfireworks\n\nWritten by MJ Lenderman\nProduced by MJ Lend",
+      "duration": 180,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=UTEpo9orjlg",
+      "title": "MJ Lenderman - Joker Lips",
+      "description": "Listen to the full album here: https://antircrds.io/3ZdHOIu\n\"Joker Lips\" by MJ Lenderman from the album \"Manning Fireworks\", out now\nOrder, stream & download: https://mjlenderman.ffm.to/manningfireworks\n\nDirected by Ben Turok\nShot by Connor Keep, Rhys Sca",
+      "duration": 183,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=2QevZ5z9Cq4",
+      "title": "MJ Lenderman - \"Rudolph\"",
+      "description": "Listen to the full album here: https://antircrds.io/3ZdHOIu \n\"Rudolph\" by @MJLendermanofficial from the album \"Manning Fireworks\", out now \nOrder, stream & download: https://mjlenderman.ffm.to/manningfireworks\n\nVideo by Jacob Pankey and Ben Surber\n\nWritte",
+      "duration": 220,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=YeGujHpGUIs",
+      "title": "MJ Lenderman - Wristwatch",
+      "description": "Listen to the full album here: https://antircrds.io/3ZdHOIu \n\"Wristwatch\" by MJ Lenderman from the album \"Manning Fireworks\", out now\nOrder, stream & download: https://mjlenderman.ffm.to/manningfireworks\n\nWritten by MJ Lenderman\nProduced by MJ Lenderman &",
+      "duration": 223,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=0rFVVzavii0",
+      "title": "MJ Lenderman - She's Leaving You",
+      "description": "Listen to the full album here: https://antircrds.io/3ZdHOIu \n\"She's Leaving You\" by MJ Lenderman from the album \"Manning Fireworks\", out now\nOrder, stream & download: https://mjlenderman.ffm.to/manningfireworks\n\nDirector: Clay Tatum & Whitmer Thomas\nSophi",
+      "duration": 287,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=OskL2-QAu3o",
+      "title": "MJ Lenderman - Rip Torn (Full Album Stream)",
+      "description": "Listen to the full album here: https://antircrds.io/3ZdHOIu \n\"Rip Torn\" by MJ Lenderman from the album \"Manning Fireworks\", out now\nOrder, stream & download: https://mjlenderman.ffm.to/manningfireworks\n\nWritten by MJ Lenderman\nProduced by MJ Lenderman & A",
+      "duration": 213,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=0962ykDIqyM",
+      "title": "MJ Lenderman - You Don't Know The Shape I'm In (Full Album Stream)",
+      "description": "Listen to the full album here: https://antircrds.io/3ZdHOIu \n\"You Don't Know The Shape I'm In\" by MJ Lenderman from the album \"Manning Fireworks\", out now\nOrder, stream & download: https://mjlenderman.ffm.to/manningfireworks\n\nWritten by MJ Lenderman\nProdu",
+      "duration": 217,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=bxxNdbdvf3E",
+      "title": "MJ Lenderman - On My Knees (Full Album Stream)",
+      "description": "Listen to the full album here: https://antircrds.io/3ZdHOIu \n\"On My Knees\" by MJ Lenderman from the album \"Manning Fireworks\", out now\nOrder, stream & download: https://mjlenderman.ffm.to/manningfireworks\n\nWritten by MJ Lenderman\nProduced by MJ Lenderman ",
+      "duration": 233,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=OGIqfEsq6Rw",
+      "title": "MJ Lenderman - Bark At The Moon (Full Album Stream)",
+      "description": "Listen to the full album here: https://antircrds.io/3ZdHOIu \n\"Bark At The Moon\" by MJ Lenderman from the album \"Manning Fireworks\", out now\nOrder, stream & download: https://mjlenderman.ffm.to/manningfireworks\n\nWritten by MJ Lenderman\nProduced by MJ Lende",
+      "duration": 0,
+      "embed": true
+    }
+  ]
+}
