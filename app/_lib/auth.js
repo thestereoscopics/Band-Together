@@ -1,62 +1,68 @@
 import NextAuth from "next-auth";
-import Google from "next-auth/providers/google";
+import EmailProvider from "@auth/core/providers/email";
+import Nodemailer from "next-auth/providers/nodemailer";
+import GoogleProvider from "@auth/core/providers/google";
+import { SupabaseAdapter } from "@auth/supabase-adapter";
 import { createUser, getUser } from "./data-service";
 
-const authConfig = {
+export const authConfig = {
   providers: [
-    Google({
+    Nodemailer({
+      server: process.env.EMAIL_SERVER,
+      from: process.env.EMAIL_FROM,
+      maxAge: 24 * 60 * 60,
+    }),
+    EmailProvider({
+      server: process.env.EMAIL_SERVER,
+      from: process.env.EMAIL_FROM,
+      maxAge: 24 * 60 * 60,
+    }),
+    GoogleProvider({
       clientId: process.env.AUTH_GOOGLE_ID,
       clientSecret: process.env.AUTH_GOOGLE_SECRET,
     }),
   ],
+
+  adapter: SupabaseAdapter({
+    url: process.env.SUPABASE_URL,
+    secret: process.env.SUPABASE_SERVICE_ROLE_KEY,
+  }),
+
+  secret: process.env.NEXTAUTH_SECRET,
+  session: { strategy: "database" },
+
   callbacks: {
-    async signIn({ user, account, profile }) {
-      console.log(account, profile);
-      console.log("Signing in:", user);
-
-      try {
-        const existingUser = await getUser(user.email);
-        console.log(existingUser, "jeremy here");
-        if (!existingUser) {
-          console.log("Creating new user...");
-
-          const newUser = await createUser({
-            email: user.email,
-            fullName: user.name,
-            vanityName: user.name.split(" ").at(0),
-          });
-
-          console.log("User created:", newUser);
-        } else {
-          console.log("User already exists");
-        }
-
-        return true; // Allow sign-in
-      } catch (error) {
-        console.error("Sign-in error:", error);
-        return false; // Deny sign-in on failure
+    async signIn({ user }) {
+      const existing = await getUser(user.auth_id);
+      if (!existing) {
+        await createUser({
+          email: user.email,
+          fullName: user.name || user.email.split("@")[0],
+          vanityName: (user.name || "").split(" ")[0] || "",
+          auth_id: user.id,
+        });
       }
+      return true;
     },
     async jwt({ token, user }) {
-      if (user) {
-        const existingUser = await getUser(user.email);
-        token.userId = existingUser?.id;
+      if (user?.email) {
+        const u = await getUser(user.email);
+        token.userId = u?.id;
       }
       return token;
     },
     async session({ session, token }) {
-      if (token?.userId) {
-        session.user.userId = token.userId;
-      }
+      if (token?.userId) session.user.userId = token?.userId;
       return session;
     },
   },
+
   pages: {
     signIn: "/login",
+    verifyRequest: "/auth/verify-request",
+    error: "/auth/error",
   },
 };
-
-export default NextAuth(authConfig);
 
 export const {
   auth,

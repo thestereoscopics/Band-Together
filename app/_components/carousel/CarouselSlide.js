@@ -10,18 +10,14 @@ export default function CarouselSlide({ slide, keyName, isAlbum }) {
         alt={isAlbum ? `Album: ${slide.title}` : `Band: ${keyName}`}
         fill
         sizes='(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw'
-        className='object-cover flex-1'
+        className='object-cover'
       />
     </div>
   );
   return (
-    <div className='transform flex-none w-[25%] min-w-0 pl-4'>
+    <div className='transform flex-none w-[100%] xs:w-[50%] sm:w-[25%] min-w-0 pl-4'>
       {isAlbum ? (
-        <Link
-          href={`/album/${slide.id}`}
-          // className='border border-primary-800 relative aspect-square rounded-md overflow-hidden max-w-xs hover:bg-accent-600 transition-all hover:text-primary-900 flex flex-[1_1_200px]'
-          key={slide.id}
-        >
+        <Link href={`/album/${slide.id}`} key={slide.id}>
           {slideContent}
           <div className='text-center mt-2'>
             {slide.title ||

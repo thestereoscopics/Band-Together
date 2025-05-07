@@ -1,10 +1,11 @@
 "use client";
-import BandList from "@/app/_components/BandList";
+import SearchedBandList from "@/app/_components/SearchedBandList";
 import MegaInput from "@/app/_components/MegaInput";
 import { useState } from "react";
 
 export default function SearchRenderBands() {
   const [bandQuery, setBandQuery] = useState(null);
+  const [favoritesList, setFavoritesList] = useState(null);
 
   return (
     <div className='max-w-4xl mx-auto mt-12 flex flex-col items-center gap-8 px-4'>
@@ -17,8 +18,11 @@ export default function SearchRenderBands() {
         </p>
       </div>
 
-      <MegaInput onSetBandQuery={setBandQuery} />
-      <BandList bandQuery={bandQuery} />
+      <MegaInput
+        onSetBandQuery={setBandQuery}
+        onSetFavoritesList={setFavoritesList}
+      />
+      <SearchedBandList bandQuery={bandQuery} favoritesList={favoritesList} />
     </div>
   );
 }

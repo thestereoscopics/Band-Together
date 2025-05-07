@@ -1,4 +1,4 @@
-import CarouselImageBox from "@/app/_components/CarouselImageBox";
+import CarouselImageBox from "@/app/_components/carousel/CarouselImageBox";
 import ImageList from "@/app/_components/ImageList";
 
 export default function ImageListContainer({ discogsArtistData, options }) {
@@ -13,11 +13,11 @@ export default function ImageListContainer({ discogsArtistData, options }) {
       </div>
     );
   }
-  const useCarousel = images.length > 3;
+  const useCarousel = images.length > 4;
   return (
     <div>
       <h3 className='text-2xl font-semibold text-accent-400'>Artist Images</h3>
-      <div className='flex flex-wrap gap-4 w-full'>
+      <div className='w-full'>
         {useCarousel ? (
           <CarouselImageBox
             options={options}

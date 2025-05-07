@@ -1,7 +1,8 @@
 import "@/app/_styles/globals.css";
-import Header from "@/app/_components/Header";
+import Header from "@/app/_components/header/Header";
 import { Josefin_Sans } from "next/font/google";
 import Footer from "./_components/Footer";
+import { Toaster } from "react-hot-toast";
 const josefin = Josefin_Sans({
   subsets: ["latin"],
   display: "swap",
@@ -27,6 +28,7 @@ export default function RootLayout({
           <div className='mx-auto max-w-7xl w-full'>{children}</div>
         </main>
         <Footer />
+        <Toaster position='top-right' />
       </body>
     </html>
   );

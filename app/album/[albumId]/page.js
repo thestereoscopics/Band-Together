@@ -4,7 +4,7 @@ import { getDiscogsAlbum } from "@/app/_lib/data-service";
 export default async function Page({ params }) {
   const { albumId } = await params;
   const { albumData } = await getDiscogsAlbum(albumId);
-  console.log(albumData);
+
   return (
     <div className='p-6 bg-primary-900 rounded-lg shadow-lg max-w-3xl mx-auto text-primary-100'>
       {albumData?.images.length && albumData.images[0]?.uri && (
@@ -37,8 +37,8 @@ export default async function Page({ params }) {
       <div className='mb-4'>
         <h2 className='text-xl font-semibold mb-2'>Tracklist:</h2>
         <ol className='list-decimal pl-5 space-y-1'>
-          {albumData.tracklist.map((track) => (
-            <li key={track.position}>
+          {albumData.tracklist.map((track, index) => (
+            <li key={`${track.position}-${index}`}>
               <span className='font-medium'>{track.title}</span> —{" "}
               {track.duration}
             </li>
@@ -50,9 +50,12 @@ export default async function Page({ params }) {
         <div className='mt-4'>
           <h2 className='text-xl font-semibold mb-2'>Videos:</h2>
           <div className='space-y-4'>
-            {albumData.videos.map((video) =>
+            {albumData.videos.map((video, index) =>
               video.embed ? (
-                <div key={video.uri} className='flex flex-col gap-2'>
+                <div
+                  key={`${video.uri}-${index}`}
+                  className='flex flex-col gap-2'
+                >
                   <p className='font-medium'>{video.title}</p>
                   <iframe
                     width='100%'

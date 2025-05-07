@@ -1,8 +1,3 @@
-import Link from "next/link";
-import Image from "next/image";
-import AboutOne from "@/public//about-1.jpg";
-import AboutTwo from "@/public//about-2.jpg";
-
 export const revalidate = 86400;
 export const metadata = {
   title: "About",
@@ -10,61 +5,62 @@ export const metadata = {
 
 export default async function Page() {
   return (
-    <div className='grid grid-cols-5 gap-x-24 gap-y-32 text-lg items-center'>
-      <div className='col-span-3'>
-        <h2 className='text-4xl mb-10 text-accent-400 font-medium'>
-          Welcome to Band Log
-        </h2>
-
-        <div className='space-y-8'>
-          <p>some things</p>
-        </div>
-      </div>
-
-      <div className='col-span-2 aspect-square relative'>
-        <Image
-          src={AboutOne}
-          fill
-          className='object-cover'
-          alt='Family sitting around a fire pit in front of cabin'
-          placeholder='blur'
-        />
-      </div>
-
-      <div className='col-span-2 aspect-square relative'>
-        <Image
-          src={AboutTwo}
-          fill
-          className='object-cover'
-          placeholder='blur'
-          alt='Family that manages The Wild Oasis'
-        />
-      </div>
-
-      <div className='col-span-3'>
-        <h3 className='text-4xl mb-10 text-accent-400 font-medium'>
-          Managed by our family since 1962
-        </h3>
-
-        <div className='space-y-8'>
-          <p>
-            Since 1962, The Wild Oasis has been a cherished family-run retreat.
-            Started by our grandparents, this haven has been nurtured with love
-            and care, passing down through our family as a testament to our
-            dedication to creating a warm, welcoming environment.
+    <>
+      <div className='text-foreground px-6 py-16'>
+        <div className='max-w-3xl mx-auto space-y-10'>
+          <h1 className='text-5xl font-bold text-primary-300'>
+            About Band Together
+          </h1>
+          <p className='text-lg leading-relaxed'>
+            Band Together is your private space to track and catalog all your
+            favorite bands — without messing up your music recommendations on
+            Spotify, Apple Music, or other streaming platform.
           </p>
-          <p>Over the years</p>
 
-          <div>
-            <Link
-              href='/'
-              className='inline-block mt-4 bg-accent-500 px-8 py-5 text-primary-800 text-lg font-semibold hover:bg-accent-600 transition-all'
-            >
-              Explore some bands
-            </Link>
+          <p className='text-lg leading-relaxed'>
+            Whether you&apos;re deep into discovering obscure post-punk or just
+            keeping tabs on your childhood favorites, Band Together keeps your
+            music tastes all in one place.
+          </p>
+
+          <div className='border-l-4 border-primary-400 pl-4 text-accent-300 italic'>
+            “I didn&apos;t want to mess up my Discover Weekly. I just wanted to
+            remember that band I saw open for Big Thief.”
+          </div>
+
+          <div className='text-lg'>
+            <h2 className='text-2xl font-semibold text-primary-100 mb-2'>
+              Features:
+            </h2>
+            <ul className='list-disc pl-6 space-y-2'>
+              <li>Privately favorite bands without platform influence</li>
+              <li>Pulls in rich data from Spotify & Discogs</li>
+              <li>See albums, songs, bios, pics, and more</li>
+              <li>Explore and rediscover the music you love</li>
+            </ul>
+          </div>
+
+          <div className='text-lg'>
+            <h2 className='text-2xl font-semibold text-primary-100 mb-2'>
+              Caveats:
+            </h2>
+            <p className='text-lg leading-relaxed'>
+              Band Together is built using APIs from Spotify and Discogs. This
+              is both a blessing and a curse. They both are fantastic APIs, but
+              offer very different information. When searching, we use Spotify
+              for it&apos;s fantastic search functions, but then we try to pair
+              the results with Discogs&apos; rich datasets. The issue is band
+              names can be spelled differently between platforms due to spaces
+              or umlauts or some such thing and band IDs are always different.
+              So we have to get results from Discogs then filter them using
+              album titles that match between platforms. All that to say,
+              sometimes it&apos;s slow. And sometimes it doesn&apos;t pair
+              results between the platforms at all. Also, sometimes the band
+              isn&apos;t on one service or the other.
+            </p>
           </div>
         </div>
       </div>
-    </div>
+    </>
   );
 }

@@ -1,10 +1,17 @@
 import Image from "next/image";
 export default function ImageList({ images, name }) {
   return (
-    <ul className='flex flex-wrap gap-4 w-full' key='image-list'>
-      {images.map(({ id, uri }) => (
+    <ul
+      className='flex overflow-x-auto gap-4 pb-2
+      sm:grid sm:grid-cols-2
+      md:grid-cols-3
+      lg:grid-cols-4
+      sm:overflow-visible'
+      key='image-list'
+    >
+      {images.map(({ id, uri }, index) => (
         <li
-          key={id}
+          key={id ?? `${uri}-${index}`}
           className='flex border-primary-800 flex-[1_1_200px] border relative aspect-square rounded-md overflow-hidden max-w-xs'
         >
           <Image

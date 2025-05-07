@@ -67,12 +67,10 @@ export async function getBand(band, service) {
       if (token.error || !token.access_token) {
         throw new Error("Could not fetch bands");
       }
-      console.log(100);
       const res = await fetch(
         `https://api.spotify.com/v1/search?q=${encodedBand}&type=artist&access_token=${token.access_token}`
       );
       const bandsQuery = await res.json();
-      console.log(99, token.access_token);
       return bandsQuery;
     }
   } catch {

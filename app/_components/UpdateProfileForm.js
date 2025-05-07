@@ -1,13 +1,22 @@
 "use client";
 
 import { updateUser } from "@/app/_lib/data-service";
-import SubmitButton from "@/app/_components/SubmitButton";
+import SubmitButton from "@/app/_components/ui/SubmitButton";
+import { toast } from "react-hot-toast";
 
 export default function UpdateProfileForm({ user }) {
   const { fullName, email, vanityName } = user;
+  async function handleUpdate(formData) {
+    try {
+      await updateUser(formData);
+      toast.success("Profile updated successfully!");
+    } catch (error) {
+      toast.error(`Update failed. Please try again. ${error}`);
+    }
+  }
   return (
     <form
-      action={updateUser}
+      action={handleUpdate}
       className='bg-primary-900 py-8 px-12 text-lg flex gap-6 flex-col'
     >
       <div className='space-y-2'>

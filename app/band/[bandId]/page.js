@@ -1,112 +1,114 @@
-import { getArtist } from "@/app/_lib/data-service";
+import { getArtist, getFavorite } from "@/app/_lib/data-service";
 import Image from "next/image";
 import ImageListContainer from "@/app/_components/ImageListContainer";
 import MembersList from "@/app/_components/MembersList";
 import LinksList from "@/app/_components/LinksList";
 import AlbumCard from "@/app/_components/AlbumCard";
+import FavoriteBandButton from "@/app/_components/ui/FavoriteBandButton";
 
 export default async function Page({ params }) {
   const OPTIONS = { slidesToScroll: "auto" };
   const { bandId } = await params;
+  const bandIdArray = bandId.split("-");
+  const isFavorite = await getFavorite(bandIdArray[1]);
 
   const {
     spotifyArtistData,
     discogsArtistData,
     releases: discogsReleaseData,
     spotifyAlbums,
-  } = await getArtist(
-    bandId.split("-")[0],
-    bandId.split("-")[1],
-    bandId.split("-")[2]
-  );
+  } = await getArtist(bandIdArray[0], bandIdArray[1], bandIdArray[2]);
+
+  const spotifyImage =
+    spotifyArtistData.images[0].url || spotifyArtistData.images[0].uri;
 
   return (
-    <div className='max-w-6xl mx-auto mt-8 px-4'>
+    <div className='max-w-6xl mx-auto px-4'>
       {/* Header */}
-      <h2 className='text-4xl font-bold text-center mb-8 text-gray-800'>
-        {spotifyArtistData.name}
-      </h2>
+      <section className='pt-8 pb-4 text-center'>
+        <h2 className='text-4xl font-bold text-gray-200'>
+          {spotifyArtistData.name}
+        </h2>
+      </section>
 
-      {/* Artist Image */}
-      {spotifyArtistData.images && (
-        <div className='flex justify-center mb-8'>
-          <div className='relative w-48 h-48 rounded-full overflow-hidden shadow-md hover:shadow-lg transition'>
+      {/* Profile & Bio */}
+      <section className='grid grid-cols-1 md:grid-cols-3 gap-8 items-start py-8'>
+        <div className='flex flex-col items-center space-y-4'>
+          {/* Artist Image */}
+          <div className='relative w-48 h-48 rounded-full overflow-hidden shadow-lg'>
+            {/* …Image… */}
             <Image
-              src={
-                spotifyArtistData.images[0].url ||
-                spotifyArtistData.images[0].uri
-              }
+              src={spotifyImage}
               alt={`Band: ${spotifyArtistData.name}`}
               fill
+              sizes='300px'
               priority
               className='object-cover'
             />
           </div>
+          {/* Favorite Button */}
+          <FavoriteBandButton
+            imageURL={spotifyImage}
+            id={bandIdArray[1]}
+            name={spotifyArtistData.name}
+            isFavorite={isFavorite ? true : false}
+            isButton={true}
+          />
         </div>
-      )}
+        <div className='md:col-span-2 space-y-6 text-gray-100'>
+          {discogsArtistData.profile && <p>{discogsArtistData.profile}</p>}
+          {/* optionally other bio fields */}
+        </div>
+      </section>
 
-      {/* Artist Bio */}
-      <div className='space-y-6'>
-        {discogsArtistData?.profile && (
-          <p className='text-lg leading-relaxed text-gray-700'>
-            {discogsArtistData.profile}
-          </p>
-        )}
-
-        {discogsArtistData?.realname && (
-          <p className='font-semibold text-gray-800'>
-            Birth name:{" "}
-            <span className='text-gray-600'>{discogsArtistData.realname}</span>
-          </p>
-        )}
-
-        {/* Members List */}
+      {/* Members & Links */}
+      <section className='grid grid-cols-1 sm:grid-cols-2 gap-12 py-8'>
         {discogsArtistData?.members && (
           <div>
             <MembersList discogsArtistData={discogsArtistData} />
           </div>
         )}
-
-        {/* Links */}
         {discogsArtistData?.urls && (
           <div>
             <LinksList discogsArtistData={discogsArtistData} />
           </div>
         )}
+      </section>
 
-        {/* Additional Images */}
+      {/* Artist Images */}
+      <section className='py-8'>
         {discogsArtistData?.images && (
           <ImageListContainer
             discogsArtistData={discogsArtistData}
             options={OPTIONS}
           />
         )}
-      </div>
+      </section>
 
-      {/* Major Releases */}
-      {discogsReleaseData?.length > 0 && (
-        <div className='mt-12 space-y-8'>
-          <AlbumCard
-            discogsReleaseData={discogsReleaseData}
-            title='Major Releases'
-            type='master'
-            spotifyAlbums={spotifyAlbums}
-          />
+      {/* Releases */}
+      <section className='py-8 space-y-12'>
+        {discogsReleaseData?.length ? (
+          <>
+            {/* Major Releases */}
+            <AlbumCard
+              discogsReleaseData={discogsReleaseData}
+              title='Major Releases'
+              type='master'
+              spotifyAlbums={spotifyAlbums}
+            />
 
-          {/* Other Releases */}
-          <AlbumCard
-            discogsReleaseData={discogsReleaseData}
-            title='Other Releases (Compilations, Singles, etc)'
-            type='other'
-            spotifyAlbums={spotifyAlbums}
-          />
-        </div>
-      )}
-
-      {/* No Releases Message */}
-      {discogsReleaseData?.length === 0 && (
-        <p className='text-center text-gray-500 mt-12'>No releases found</p>
-      )}
+            {/* Other Releases */}
+            <AlbumCard
+              discogsReleaseData={discogsReleaseData}
+              title='Other Releases (Compilations, Singles, etc)'
+              type='other'
+              spotifyAlbums={spotifyAlbums}
+            />
+          </>
+        ) : (
+          <p className='text-center text-gray-500'>No releases found</p>
+        )}
+      </section>
     </div>
   );
 }

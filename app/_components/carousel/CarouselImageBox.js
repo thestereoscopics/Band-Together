@@ -1,14 +1,17 @@
 "use client";
 
 import React from "react";
-import { DotButton, useDotButton } from "@/app/_components/CarouselDotButtons";
+import {
+  DotButton,
+  useDotButton,
+} from "@/app/_components/carousel/CarouselDotButtons";
 import {
   PrevButton,
   NextButton,
   usePrevNextButtons,
-} from "@/app/_components/CarouselArrowButtons";
+} from "@/app/_components/carousel/CarouselArrowButtons";
 import useEmblaCarousel from "embla-carousel-react";
-import CarouselSlide from "@/app/_components/CarouselSlide";
+import CarouselSlide from "@/app/_components/carousel/CarouselSlide";
 
 export default function CarouselImageBox({
   slides,
@@ -29,7 +32,7 @@ export default function CarouselImageBox({
   return (
     <section className='mb-8 w-full'>
       <div className='overflow-hidden' ref={emblaRef}>
-        <div className='flex touch-pan-y touch-pinch-zoom -ml-4'>
+        <div className='flex touch-pan-y touch-pinch-zoom -ml-4 '>
           {slides.map((slide, index) => (
             <CarouselSlide
               key={`${slide.id}-${index}`}

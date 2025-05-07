@@ -117,7 +117,6 @@ export async function searchBands(formData) {
  * @throws Will throw an error if the service is invalid or if fetching fails.
  */
 export async function getArtist(serviceName, artistId, artistName) {
-  console.log(artistName);
   if (!serviceName || !artistId) {
     return { message: "Band could not be found" };
   }
@@ -159,7 +158,7 @@ export async function getArtist(serviceName, artistId, artistName) {
       );
 
       const artistData = await artistResponse.json();
-      console.log(artistData);
+
       return {
         serviceName,
         artistData,

@@ -6,7 +6,7 @@ export default function LinksList({ discogsArtistData }) {
 
   return (
     <div className='mt-6'>
-      <h3 className='text-xl font-semibold mb-2 text-gray-800'>Links</h3>
+      <h3 className='text-2xl font-semibold text-accent-400'>Links</h3>
       <ul className='space-y-2'>
         {discogsArtistData.urls.map((url) => {
           const [text, href] = url.split(" - ");
