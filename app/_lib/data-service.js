@@ -48,7 +48,7 @@ export async function createUser({ email, fullName, vanityName, auth_id }) {
           auth_id,
         },
       ],
-      { onConflict: ["auth_id"] } // Prevents duplicates based on email
+      { onConflict: ["auth_id"] }
     );
 
     if (error) {
@@ -165,7 +165,6 @@ async function getFavoriteList() {
 
 async function getBands(query, serviceName) {
   // URLs for each service we will only use Spotify for now as their search seems best
-
   const serviceUrls = {
     discogs: `https://api.discogs.com/database/search?q=${query}&artist&key=${process.env.NEXT_PUBLIC_DISCOGS_KEY}&secret=${process.env.NEXT_PUBLIC_DISCOGS_SECRET}`,
     musicbrainz: `https://musicbrainz.org/ws/2/artist/?query=${query}&fmt=json&limit=30`,
@@ -231,45 +230,6 @@ async function getSpotifyArtistAlbums(spotifyArtistId, accessToken) {
   return data.items.map((album) => album.name.toLowerCase());
 }
 
-// async function findDiscogsArtist(artistName, spotifyAlbums) {
-//   // Step 1: Search Discogs for the artist by name
-//   const response = await fetch(
-//     `https://api.discogs.com/database/search?q=${artistName}&artist&key=${discogsKey}&secret=${discogsSecret}`
-//   );
-//   const data = await response.json();
-
-//   if (!data.results.length) return null; // No matches found
-
-//   // Step 2: Fetch releases for each potential Discogs artist
-//   let counter = 0;
-//   for (const artist of data.results) {
-//     counter++;
-//     const releasesResponse = await fetch(
-//       `https://api.discogs.com/artists/${artist.id}/releases?key=${discogsKey}&secret=${discogsSecret}`
-//     );
-//     const releasesData = await releasesResponse.json();
-
-//     // Normalize Discogs album names
-//     const discogsAlbums = releasesData?.releases?.map((release) =>
-//       release.title.toLowerCase()
-//     );
-
-//     // Step 3: Check for overlapping albums
-//     const matchingAlbums = spotifyAlbums.filter((album) =>
-//       discogsAlbums?.includes(album)
-//     );
-
-//     if (matchingAlbums.length > 0) {
-//       console.log(
-//         `Match found: ${artist.title} with ${matchingAlbums.length} matching albums with ${counter} calls`
-//       );
-//       return artist.id; // Return the first artist with album matches
-//     }
-//   }
-
-//   return null; // No strong match found
-// }
-
 async function findDiscogsArtist(artistName, spotifyAlbums) {
   const response = await fetch(
     `https://api.discogs.com/database/search?q=${artistName}&artist&key=${discogsKey}&secret=${discogsSecret}`
@@ -277,21 +237,14 @@ async function findDiscogsArtist(artistName, spotifyAlbums) {
   const data = await response.json();
 
   if (!data.results.length) return null;
-  console.log(data);
-  console.log(spotifyAlbums);
-  // Limit number of artists to avoid rate limiting
-  const limitedResults = data.results.slice(0, 10); // Adjust if needed
+  const limitedResults = data.results.slice(0, 10);
 
-  // Fire off all artist release fetches in parallel
   const fetches = limitedResults.map(async (artist, index) => {
     try {
       const res = await fetch(
         `https://api.discogs.com/artists/${artist.id}/releases?key=${discogsKey}&secret=${discogsSecret}`
       );
       const releasesData = await res.json();
-      if (index === 0) {
-        console.log(releasesData);
-      }
 
       const discogsAlbums = releasesData?.releases?.map((release) =>
         release.title.toLowerCase()
